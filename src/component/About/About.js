@@ -6,9 +6,14 @@ function About() {
     return (
         <div>
             <Navbar/>
-            <h>
-                This is About Page
-            </h>
+    
+            <h3>
+            <li>Hi, I'm Touhidul Islam, passionate about Software and Web development.</li>
+             <li>Let's connect on [<a href="https://www.linkedin.com/in/touhid19/" target="_blank" rel="noopener noreferrer"> Linkedin</a>]</li>
+             <li>or drop me a line at [toouhidul@gmail.com]. </li>
+             <li>Excited to explore new opportunities and collaborations!</li>    
+                
+               </h3>
 
             <Footer/>
         </div>

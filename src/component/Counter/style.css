@@ -1,9 +1,25 @@
+/* Counter.css */
+
 .main-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 120vh; 
+    padding: 100px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
     text-align: center;
-  }
-  
- 
+}
+
+
+
+.button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
