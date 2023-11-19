@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learnathon2.0-api-project/static/css/main.0661587d.css",
+    "main.js": "/learnathon2.0-api-project/static/js/main.34124073.js",
+    "static/js/787.d4aba7ab.chunk.js": "/learnathon2.0-api-project/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/learnathon2.0-api-project/index.html",
+    "main.0661587d.css.map": "/learnathon2.0-api-project/static/css/main.0661587d.css.map",
+    "main.34124073.js.map": "/learnathon2.0-api-project/static/js/main.34124073.js.map",
+    "787.d4aba7ab.chunk.js.map": "/learnathon2.0-api-project/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0661587d.css",
+    "static/js/main.34124073.js"
+  ]
+}
